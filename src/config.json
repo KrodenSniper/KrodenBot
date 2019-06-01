@@ -1,0 +1,369 @@
+{
+  "token": "",
+  "gameRoleMap": [
+    {
+      "gameName": "PLAYERUNKNOWN'S BATTLEGROUNDS",
+      "roleName": "PUBG"
+    },
+    {
+      "gameName": "Fortnite",
+      "roleName": "Fortnite"
+    },
+    {
+      "gameName": "Rust",
+      "roleName": "Rust"
+    },
+    {
+      "gameName": "Rocket League",
+      "roleName": "Rocket League"
+    },
+    {
+      "gameName": "League of Legends",
+      "roleName": "League of Legends"
+    },
+    {
+      "gameName": "The Elder Scrolls II: Daggerfall",
+      "roleName": "Elder Scrolls"
+    },
+    {
+      "gameName": "The Elder Scrolls III: Morrowind",
+      "roleName": "Elder Scrolls"
+    },
+    {
+      "gameName": "The Elder Scrolls IV: Oblivion",
+      "roleName": "Elder Scrolls"
+    },
+    {
+      "gameName": "The Elder Scrolls V: Skyrim",
+      "roleName": "Elder Scrolls"
+    },
+    {
+      "gameName": "The Elder Scrolls V: Skyrim Special Edition",
+      "roleName": "Elder Scrolls"
+    },
+    {
+      "gameName": "The Elder Scrolls VI",
+      "roleName": "Elder Scrolls"
+    },
+    {
+      "gameName": "Skyrim",
+      "roleName": "Elder Scrolls"
+    },
+    {
+      "gameName": "The Elder Scrolls Online",
+      "roleName": "Elder Scrolls"
+    },
+    {
+      "gameName": "Overwatch",
+      "roleName": "Overwatch"
+    },
+    {
+      "gameName": "Destiny 2",
+      "roleName": "Destiny 2"
+    },
+    {
+      "gameName": "World of Warcraft",
+      "roleName": "WoW"
+    },
+    {
+      "gameName": "Tom Clancy's The Division",
+      "roleName": "The Division 2"
+    },
+    {
+      "gameName": "Tom Clancy's The Division 2",
+      "roleName": "The Division 2"
+    },
+    {
+      "gameName": "Apex Legends",
+      "roleName": "Apex Legends"
+    },
+    {
+      "gameName": "Tom Clancy's Rainbow Six Siege",
+      "roleName": "Rainbow Six Siege"
+    },
+    {
+      "gameName": "Tom Clancy's Ghost Recon® Wildlands",
+      "roleName": "Wildlands"
+    },
+    {
+      "gameName": "Tom Clancy's Ghost Recon Wildlands",
+      "roleName": "Wildlands"
+    },
+    {
+      "gameName": "Call of Duty",
+      "roleName": "Call of Duty"
+    },
+    {
+      "gameName": "Call of Duty: United Offensive",
+      "roleName": "Call of Duty"
+    },
+    {
+      "gameName": "Call of Duty: Finest Hour",
+      "roleName": "Call of Duty"
+    },
+    {
+      "gameName": "Call of Duty 2",
+      "roleName": "Call of Duty"
+    },
+    {
+      "gameName": "Call of Duty 2: Big Red One",
+      "roleName": "Call of Duty"
+    },
+    {
+      "gameName": "Call of Duty 3",
+      "roleName": "Call of Duty"
+    },
+    {
+      "gameName": "Call of Duty: Roads to Victory",
+      "roleName": "Call of Duty"
+    },
+    {
+      "gameName": "Call of Duty 4: Modern Warfare",
+      "roleName": "Call of Duty"
+    },
+    {
+      "gameName": "Call of Duty 4",
+      "roleName": "Call of Duty"
+    },
+    {
+      "gameName": "Call of Duty: Modern Warfare Remastered",
+      "roleName": "Call of Duty"
+    },
+    {
+      "gameName": "Call of Duty: World at War",
+      "roleName": "Call of Duty"
+    },
+    {
+      "gameName": "Call of Duty: Modern Warfare 2",
+      "roleName": "Call of Duty"
+    },
+    {
+      "gameName": "Call of Duty: Black Ops",
+      "roleName": "Call of Duty"
+    },
+    {
+      "gameName": "Call of Duty: Black Ops II",
+      "roleName": "Call of Duty"
+    },
+    {
+      "gameName": "Call of Duty: Black Ops III",
+      "roleName": "Call of Duty"
+    },
+    {
+      "gameName": "Call of Duty: Ghosts",
+      "roleName": "Call of Duty"
+    },
+    {
+      "gameName": "Call of Duty",
+      "roleName": "Call of Duty"
+    },
+    {
+      "gameName": "Call of Duty: Infinite Warfare",
+      "roleName": "Call of Duty"
+    },
+    {
+      "gameName": "Call of Duty®: WWII",
+      "roleName": "Call of Duty"
+    },
+    {
+      "gameName": "Call of Duty: WWII",
+      "roleName": "Call of Duty"
+    },
+    {
+      "gameName": "Call of Duty®: Black Ops 4",
+      "roleName": "Call of Duty"
+    },
+    {
+      "gameName": "Call of Duty: Black Ops 4",
+      "roleName": "Call of Duty"
+    },
+    {
+      "gameName": "Call of Duty®: Black Ops IIII",
+      "roleName": "Call of Duty"
+    },
+    {
+      "gameName": "Call of Duty: Black Ops IIII",
+      "roleName": "Call of Duty"
+    },
+    {
+      "gameName": "Battlefield 1942",
+      "roleName": "Battlefield"
+    },
+    {
+      "gameName": "Battlefield Vietnam",
+      "roleName": "Battlefield"
+    },
+    {
+      "gameName": "Battlefield 2",
+      "roleName": "Battlefield"
+    },
+    {
+      "gameName": "Battlefield 2142",
+      "roleName": "Battlefield"
+    },
+    {
+      "gameName": "Battlefield: Bad Company",
+      "roleName": "Battlefield"
+    },
+    {
+      "gameName": "Battlefield 1943",
+      "roleName": "Battlefield"
+    },
+    {
+      "gameName": "Battlefield: Bad Company 2",
+      "roleName": "Battlefield"
+    },
+    {
+      "gameName": "Battlefield: Bad Company 2 Vietnam",
+      "roleName": "Battlefield"
+    },
+    {
+      "gameName": "Battlefield Online",
+      "roleName": "Battlefield"
+    },
+    {
+      "gameName": "Battlefield Play4Free",
+      "roleName": "Battlefield"
+    },
+    {
+      "gameName": "Battlefield 3",
+      "roleName": "Battlefield"
+    },
+    {
+      "gameName": "Battlefield 4",
+      "roleName": "Battlefield"
+    },
+    {
+      "gameName": "Battlefield Hardline",
+      "roleName": "Battlefield"
+    },
+    {
+      "gameName": "Battlefield 1",
+      "roleName": "Battlefield"
+    },
+    {
+      "gameName": "Battlefield V",
+      "roleName": "Battlefield"
+    },
+    {
+      "gameName": "Battlefield™ V",
+      "roleName": "Battlefield"
+    },
+    {
+      "gameName": "Grand Theft Auto",
+      "roleName": "GTA"
+    },
+    {
+      "gameName": "Grand Theft Auto 2",
+      "roleName": "GTA"
+    },
+    {
+      "gameName": "Grand Theft Auto III",
+      "roleName": "GTA"
+    },
+    {
+      "gameName": "Grand Theft Auto Vice City",
+      "roleName": "GTA"
+    },
+    {
+      "gameName": "Grand Theft Auto San Andreas",
+      "roleName": "GTA"
+    },
+    {
+      "gameName": "Grand Theft Auto IV",
+      "roleName": "GTA"
+    },
+    {
+      "gameName": "Grand Theft Auto V",
+      "roleName": "GTA"
+    },
+    {
+      "gameName": "Grand Theft Auto VI",
+      "roleName": "GTA"
+    },
+    {
+      "gameName": "Grand Theft Auto Online",
+      "roleName": "GTA"
+    },
+    {
+      "gameName": "GTA 5 Online",
+      "roleName": "GTA"
+    },
+    {
+      "gameName": "GTA 5 Online: Gaterunning",
+      "roleName": "GTA"
+    },
+    {
+      "gameName": "Counter-Strike Global Offensive",
+      "roleName": "CS:GO"
+    },
+    {
+      "gameName": "Counter-Strike: Global Offensive",
+      "roleName": "CS:GO"
+    },
+    {
+      "gameName": "Sniper Elite V2",
+      "roleName": "Sniper Elite"
+    },
+    {
+      "gameName": "Sniper Elite V2 Remastered",
+      "roleName": "Sniper Elite"
+    },
+    {
+      "gameName": "Sniper Elite 3",
+      "roleName": "Sniper Elite"
+    },
+    {
+      "gameName": "Sniper Elite 4",
+      "roleName": "Sniper Elite"
+    },
+    {
+      "gameName": "Sniper Elite 5",
+      "roleName": "Sniper Elite"
+    },
+    {
+      "gameName": "Mordhau",
+      "roleName": "Mordhau"
+    },
+    {
+      "gameName": "MORDHAU",
+      "roleName": "Mordhau"
+    },
+    {
+      "gameName": "Borderlands 3",
+      "roleName": "Borderlands 3"
+    },
+    {
+      "gameName": "Tom Clancy's Ghost Recon® Breakpoint",
+      "roleName": "Breakpoint"
+    },
+    {
+      "gameName": "Tom Clancy's Ghost Recon Breakpoint",
+      "roleName": "Breakpoint"
+    },
+    {
+      "gameName": "Borderlands 3",
+      "roleName": "Borderlands 3"
+    }
+  ],
+  "voiceChannels": [
+    {
+      "name": "Public"
+    },
+    {
+      "name": "Lobby ¹"
+    },
+    {
+      "name": "Lobby ²"
+    },
+    {
+      "name": "Lobby ³"
+    },
+    {
+      "name": "Lobby ⁴"
+    },
+    {
+      "name": "Mods ⁵"
+    }
+  ]
+}
